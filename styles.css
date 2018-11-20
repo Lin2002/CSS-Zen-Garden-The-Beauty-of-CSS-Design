@@ -1,0 +1,73 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* begin writing your CSS below this line */
+.page-wrapper{
+    background-image:url("https://stmed.net/sites/default/files/yellow-stripes-wallpapers-25358-6710495.jpg");
+    }
+header{
+    margin-top:-70px;
+    text-align:center;
+    font-size:60px;
+    background-image:url("https://news-cdn.softpedia.com/images/news2/Script-of-the-Day-Trianglify-447787-2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 550px;
+    width:100%;
+    height:550px;
+    }
+h1{
+    padding-top:40px;
+    }
+#zen-summary{
+    text-align:center;
+    color:white;
+    margin-top:-70px;
+    }
+h3{
+    padding-top:15px;
+    padding-bottom:15px;
+    font-size:35px;
+    text-align:center;
+    color:black;
+    }
+#zen-preamble{
+    margin-top:90px;
+    background-image:url("https://trianglify.glitch.me/trianglify.png");
+    background-repeat: no-repeat;
+    background-size: 100% 350px;
+    text-align:center;
+    width:100%;
+    height:350px;
+    font-size:17.3px;
+    }
+#zen-explanation{
+    margin-top:90px;
+    background-image:url("http://webtoolsdepot.com/wp-content/uploads/2014/04/trianglify.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 350px;
+    text-align:center;
+    width:100%;
+    height:350px;
+    font-size:17.3px;
+    }
+#zen-participation{
+    margin-top:90px;
+    background-image:url("https://www.prosyscom.com.my/wp-content/uploads/2018/03/share_image.png");
+    background-repeat: no-repeat;
+    background-size: 100% 350px;
+    text-align:center;
+    width:100%;
+    height:350px;
+    font-size:17.3px;
+    }
+#zen-benefits{
+    margin-top:90px;
+    background-image:url("http://www.vectorgraphit.com/wp-content/uploads/2014/04/trianglify-background-7.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 350px;
+    text-align:center;
+    width:100%;
+    height:350px;
+    font-size:17.3px;
+    }
+
